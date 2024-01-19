@@ -101,3 +101,8 @@ h2{
 h3{
     color: rgb(139, 139, 139)oke;
 }
+.h4 {
+    max-width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+  }
